@@ -168,6 +168,7 @@ The following are the results for IOU scores.
 
 ![ACC_4][results]
 
+The video following the target can be found in videos directory.
 
 ## **11. Future work** <a id='future_work'></a>
 
